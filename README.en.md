@@ -4,7 +4,7 @@
 
 This repository contains the complete implementation of a **Pokémon battle simulator** developed in **Motorola 68000 Assembly Language (M68K)**. The project constitutes an educational and fully functional implementation that replicates the main characteristics of the first generation Pokémon battle system, allowing interactive battles with real-time graphics and mechanics.
 
-Imágen de combate iniciado:
+Started battle:
 
 
 
