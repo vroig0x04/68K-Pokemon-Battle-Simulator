@@ -1,9 +1,11 @@
-<img width="532" height="387" alt="Captura de pantalla 2026-09-24 161605" src="https://github.com/user-attachments/assets/5ad79b79-74ec-4e57-9bf4-05edde9e0984" />
 # Simulador de Batallas Pokémon - Motorola 68000
 
 ## 📋 Descripción del Proyecto
 
 Este repositorio contiene la implementación completa de un **simulador de batallas Pokémon** desarrollado en **lenguaje ensamblador Motorola 68000 (M68K)**. El proyecto constituye una implementación educativa y funcional que replica las características principales del sistema de batalla Pokémon de primera generación, permitiendo batallas interactivas con gráficos y mecánicas en tiempo real.
+
+Imágen de combate iniciado:
+<img width="532" height="387" alt="Captura de pantalla 2026-09-24 161605" src="https://github.com/user-attachments/assets/5ad79b79-74ec-4e57-9bf4-05edde9e0984" />
 
 El sistema implementa:
 
